@@ -1,26 +1,36 @@
 # Bootcamp on GenAI and LLMs: Concepts and Applications (April 1 - 4, 2026)
 
-![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
+<a href="https://www.python.org">
+<img src="https://cdn.simpleicons.org/python" width="40" height="40"/>
+</a>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?logo=pytorch&logoColor=white)
+<a href="https://pytorch.org">
+<img src="https://cdn.simpleicons.org/pytorch" width="40" height="40"/>
+</a>
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
+<a href="https://huggingface.co">
+<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/>
+</a>
 
-![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-LLMs-purple?logo=openai&logoColor=white)
+<a href="https://jupyter.org">
+<img src="https://cdn.simpleicons.org/jupyter" width="40" height="40"/>
+</a>
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM%20Interaction-green?logo=openai&logoColor=white)
+<a href="https://github.com">
+<img src="https://cdn.simpleicons.org/github" width="40" height="40"/>
+</a>
 
-![Retrieval Augmented Generation](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?logo=elasticsearch&logoColor=white)
+<a href="https://openai.com">
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40"/>
+</a>
 
-![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-Model%20Adaptation-red?logo=pytorch&logoColor=white)
+<a href="https://www.tensorflow.org">
+<img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40"/>
+</a>
 
-![Transformers](https://img.shields.io/badge/Transformers-NLP%20Models-yellow?logo=huggingface&logoColor=black)
-
-![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-Text%20Speech%20Vision-purple?logo=tensorflow&logoColor=white)
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Repository-black?logo=github&logoColor=white)
+<a href="https://scikit-learn.org">
+<img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40"/>
+</a>
 
 This repository contains the lecture material, demo notebooks, and resources used in the Generative AI and LLM Bootcamp conducted at Amrita Vishwa Vidyapeetham, Bengaluru Campus.
 
