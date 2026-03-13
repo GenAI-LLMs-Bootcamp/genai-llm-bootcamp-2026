@@ -4,15 +4,11 @@ This repository contains the lecture material, demo notebooks, and resources use
 
 ## Workshop details
 
-Organization
-Amrita School of Computing
-Amrita School of AI
+Organized by Amrita School of Computing, Amrita School of AI
 
-Location
-Amrita Vishwa Vidyapeetham Bengaluru Campus
+Where? Amrita Vishwa Vidyapeetham Bengaluru Campus
 
-Dates
-1–4 April 2026
+When? 1-4 April 2026
 
 ## Workshop themes
 
