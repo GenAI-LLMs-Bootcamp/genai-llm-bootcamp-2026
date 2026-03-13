@@ -10,20 +10,8 @@
 <img src="https://cdn.simpleicons.org/pytorch" height="45"/>
 </a>
 
-<a href="https://huggingface.co">
-<img src="https://cdn.simpleicons.org/huggingface" height="45"/>
-</a>
-
 <a href="https://huggingface.co/docs/transformers">
 <img src="https://cdn.simpleicons.org/huggingface" height="45"/>
-</a>
-
-<a href="https://jupyter.org">
-<img src="https://cdn.simpleicons.org/jupyter" height="45"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://cdn.simpleicons.org/github" height="45"/>
 </a>
 
 <a href="https://www.tensorflow.org">
@@ -32,6 +20,14 @@
 
 <a href="https://scikit-learn.org">
 <img src="https://cdn.simpleicons.org/scikitlearn" height="45"/>
+</a>
+
+<a href="https://jupyter.org">
+<img src="https://cdn.simpleicons.org/jupyter" height="45"/>
+</a>
+
+<a href="https://colab.research.google.com/notebooks/">
+<img src="https://cdn.simpleicons.org/googlecolab" height="45"/>
 </a>
 
 </p>
