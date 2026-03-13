@@ -62,7 +62,7 @@
 
 This repository contains the lecture material, demo notebooks, and resources used in the Generative AI and LLM Bootcamp conducted at Amrita Vishwa Vidyapeetham, Bengaluru Campus.
 
-## Workshop details
+## Bootcamp details
 
 Organized by Amrita School of Computing, Amrita School of AI
 
@@ -82,7 +82,7 @@ When :  1-4 April 2026
 
 To get started with the project files, you'll need to:
 1. Setup [Google colab](https://colab.research.google.com/notebooks/intro.ipynb)
-2. Or if running locally, [Python](https://www.python.org) and [Jupyter Notebook](https://jupyter.org/) installed
+2. Or if running locally, install [Python](https://www.python.org) and [Jupyter Notebook](https://jupyter.org/)
 
    If you already have Python and pip installed, you can install Jupyter Notebook directly via the command line: 
 
