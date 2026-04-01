@@ -1,0 +1,4 @@
+Key Topics Covered:
+- Responsible AI
+- Introduction to GenAI
+- Foundations of Embeddings and Transformers Architecture
