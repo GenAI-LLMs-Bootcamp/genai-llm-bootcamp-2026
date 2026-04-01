@@ -75,7 +75,7 @@ When :  1-4 April 2026
 - Foundations of AI and Generative Models
 - Large Language Models and Applications
 - Prompt Engineering and Retrieval Augmented Generation (RAG)
-- Fine-Tuning and Deployment
+- Fine-Tuning and PEFT Techniques
 - Multimodal AI including text, speech, and vision
 
 ## Prerequisites
